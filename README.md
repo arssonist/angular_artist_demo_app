@@ -2,7 +2,7 @@ An application made to demonstate the basic use of Angular 1. The purpose it dem
 
 To see a Demo of this app visit:
 
-`https://arssonist.github.io/angular_artist_demo_app/#/list`
+https://arssonist.github.io/angular_artist_demo_app/#/list
 
 When you arrive, simply begin typing in the search field and data will begin to appear
 
