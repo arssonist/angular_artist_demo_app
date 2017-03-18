@@ -1,3 +1,4 @@
+<h1>Artists Directory</h2>
 An application made to demonstate the basic use of Angular 1. The purpose it demonstrate my ability to create a pleasant UI using a blob of json.
 
 To see a Demo of this app visit:
